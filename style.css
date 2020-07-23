@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @font-face{
     font-family: 'FonteLogo';
     src: url('font/bubblegum-sans-regular.otf');
@@ -243,7 +242,7 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
-=======
+
 body {
     background-image: url("img/background.jpg");
     color: black;
@@ -290,4 +289,3 @@ figure.foto-legenda figcaption {
 figure.foto-legenda:hover figcaption {
     opacity: 1;
 }
->>>>>>> 3e444fe933205105b4fbd0b283e6b1917754ae51
